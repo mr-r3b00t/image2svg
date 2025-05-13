@@ -1,2 +1,3 @@
 # image2svg
 Using Ai to make useful apps - maybe... 
+created with GROK to prove a point!
